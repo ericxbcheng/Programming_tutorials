@@ -1,2 +1,2 @@
-# Programming_tutorials
-This is a repo for programming tutorials
+# Programming Tutorials
+This is a repository for programming tutorials and programming tests.
